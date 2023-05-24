@@ -1,0 +1,46 @@
+tipo_envolvido = Condutor
+|   estado_fisico = Lesoes_Leves
+|   |   condicao_meteorologica = Cuu_Claro
+|   |   |   km <= 102: Masculino (53.0)
+|   |   |   km > 102: Feminino (2.0)
+|   |   condicao_meteorologica = Nublado
+|   |   |   dia_semana_ = segunda_feira: Masculino (4.0)
+|   |   |   dia_semana_ = terca_feira: Feminino (9.0)
+|   |   |   dia_semana_ = quarta_feira: Feminino (0.0)
+|   |   |   dia_semana_ = quinta_feira: Feminino (0.0)
+|   |   |   dia_semana_ = sexta_feira: Feminino (0.0)
+|   |   |   dia_semana_ = sabado: Feminino (0.0)
+|   |   |   dia_semana_ = domingo: Feminino (0.0)
+|   |   condicao_meteorologica = Chuva: Masculino (0.0)
+|   |   condicao_meteorologica = Garoa_Chuvisco: Masculino (0.0)
+|   |   condicao_meteorologica = Sol: Masculino (1.0)
+|   |   condicao_meteorologica = Nevoeiro_Neblina: Masculino (0.0)
+|   |   condicao_meteorologica = Vento: Masculino (0.0)
+|   |   condicao_meteorologica = Ignorado: Masculino (0.0)
+|   estado_fisico = Nao_Informado: Nao_Informado (3.0)
+|   estado_fisico = Ileso
+|   |   tracado_via = Reta
+|   |   |   uso_solo = Sim: Masculino (74.0)
+|   |   |   uso_solo = Nao
+|   |   |   |   dia_semana_ = segunda_feira: Masculino (0.0)
+|   |   |   |   dia_semana_ = terca_feira: Feminino (2.0)
+|   |   |   |   dia_semana_ = quarta_feira: Masculino (16.0)
+|   |   |   |   dia_semana_ = quinta_feira: Masculino (0.0)
+|   |   |   |   dia_semana_ = sexta_feira: Feminino (1.0)
+|   |   |   |   dia_semana_ = sabado: Masculino (0.0)
+|   |   |   |   dia_semana_ = domingo: Masculino (0.0)
+|   |   tracado_via = Curva: Feminino (2.0)
+|   |   tracado_via = Nao_Informado: Masculino (25.0)
+|   |   tracado_via = Desvio_Temporario: Masculino (0.0)
+|   |   tracado_via = Retorno_Regulamentado: Masculino (0.0)
+|   |   tracado_via = Rotatoria: Masculino (0.0)
+|   |   tracado_via = Intersecao_de_vias: Masculino (0.0)
+|   |   tracado_via = Viaduto: Masculino (0.0)
+|   |   tracado_via = Simples_Curva: Masculino (0.0)
+|   estado_fisico = Lesoes_Graves: Masculino (10.0/1.0)
+|   estado_fisico = Obito: Masculino (6.0)
+tipo_envolvido = Testemunha: Nao_Informado (1.0)
+tipo_envolvido = Pedestre: Masculino (1.0)
+tipo_envolvido = Nao_Informado: Nao_Informado (11.0)
+
+Number of Leaves  : 	76
