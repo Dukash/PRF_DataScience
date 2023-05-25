@@ -12,6 +12,6 @@ Fonte:
 
 
 @Uniopet
-Aluno: Eduardo Lucas Veiga de Souza
+Alunos: Eduardo Lucas Veiga de Souza | Willian Tezzolin | Edison Tezzolin 
 Professor Requisitante : Fernando Camargo
 Curso: Análise e Desenvolvimento de Sistemas
